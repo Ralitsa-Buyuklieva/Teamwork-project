@@ -1,4 +1,4 @@
-package VALET_PARKING_LOT;
+package CALCULATIONS_TEST_SETS.VALET_PARKING_LOT;
 
 import org.junit.*;
 import org.openqa.selenium.*;
