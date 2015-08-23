@@ -22,7 +22,28 @@
     <favorites_list name="PARKING CALCULATOR AUTOMATED TESTS" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="SELECT_LEAVING_TIME.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SELECT_LEAVING_TIME.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="38" selection-start-line="22" selection-start-column="8" selection-end-line="39" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SAMPLE_CALCULATION_TEST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SAMPLE_CALCULATION_TEST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32126698">
+              <caret line="112" column="23" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,6 +67,13 @@
         <option value="$PROJECT_DIR$/src/test/java/LONG_TERM_GARAGE_PARKING_LOT/LTG_COMPLETE_TESTS_SET.java" />
         <option value="$PROJECT_DIR$/src/test/java/SHORT_TERM_PARKING_LOT/STP_COMPLETE_TESTS_SET.java" />
         <option value="$PROJECT_DIR$/src/test/java/VALET_PARKING_LOT/VP_COMPLETE_TESTS_SET.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/VERIFY_MAIN_PAGE.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SELECT_ENTRY_TIME.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SELECT_ENTRY_DATE.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/ARRAY_LOT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SELECT_LEAVING_DATE.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SELECT_LEAVING_TIME.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SAMPLE_CALCULATION_TEST.java" />
       </list>
     </option>
   </component>
@@ -68,7 +96,7 @@
     <option name="x" value="58" />
     <option name="y" value="43" />
     <option name="width" value="1845" />
-    <option name="height" value="913" />
+    <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -94,7 +122,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -135,7 +162,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="VALET_PARKING_LOT" />
+              <option name="myItemId" value="MAIN_VERIFICATION_TESTS_SET" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -158,88 +185,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SHORT_TERM_PARKING_LOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PARKING CALCULATOR AUTOMATED TESTS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AUTOMATED TESTS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LONG_TERM_SURFACE_PARKING_LOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PARKING CALCULATOR AUTOMATED TESTS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AUTOMATED TESTS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LONG_TERM_GARAGE_PARKING_LOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PARKING CALCULATOR AUTOMATED TESTS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AUTOMATED TESTS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ECONOMY_PARKING_LOT" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,6 +205,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,72 +213,20 @@
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.All in PARKING CALCULATOR AUTOMATED TESTS">
-    <configuration default="false" name="LTS_COMPLETE_TESTS_SET" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SAMPLE_CALCULATION_TEST.SAMPLE_CALCULATION">
+    <configuration default="false" name="SELECT_ENTRY_TIME.selectEntryTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="LONG_TERM_SURFACE_PARKING_LOT.*" />
+          <option name="PATTERN" value="MAIN_VERIFICATION_TESTS_SET.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="PARKING CALCULATOR AUTOMATED TESTS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="LONG_TERM_SURFACE_PARKING_LOT" />
-      <option name="MAIN_CLASS_NAME" value="LONG_TERM_SURFACE_PARKING_LOT.LTS_COMPLETE_TESTS_SET" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="STP_COMPLETE_TESTS_SET" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SHORT_TERM_PARKING_LOT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="PARKING CALCULATOR AUTOMATED TESTS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="SHORT_TERM_PARKING_LOT" />
-      <option name="MAIN_CLASS_NAME" value="SHORT_TERM_PARKING_LOT.STP_COMPLETE_TESTS_SET" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="STP_COMPLETE_TESTS_SET.TEST_FUNC_016" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SHORT_TERM_PARKING_LOT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="PARKING CALCULATOR AUTOMATED TESTS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="SHORT_TERM_PARKING_LOT" />
-      <option name="MAIN_CLASS_NAME" value="SHORT_TERM_PARKING_LOT.STP_COMPLETE_TESTS_SET" />
-      <option name="METHOD_NAME" value="TEST_FUNC_016" />
+      <option name="PACKAGE_NAME" value="MAIN_VERIFICATION_TESTS_SET" />
+      <option name="MAIN_CLASS_NAME" value="MAIN_VERIFICATION_TESTS_SET.SELECT_ENTRY_TIME" />
+      <option name="METHOD_NAME" value="selectEntryTime" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -346,20 +240,20 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="VP_COMPLETE_TESTS_SET" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SELECT_ENTRY_DATE.selectEntryDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="VALET_PARKING_LOT.*" />
+          <option name="PATTERN" value="MAIN_VERIFICATION_TESTS_SET.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="PARKING CALCULATOR AUTOMATED TESTS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="VALET_PARKING_LOT" />
-      <option name="MAIN_CLASS_NAME" value="VALET_PARKING_LOT.VP_COMPLETE_TESTS_SET" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="MAIN_VERIFICATION_TESTS_SET" />
+      <option name="MAIN_CLASS_NAME" value="MAIN_VERIFICATION_TESTS_SET.SELECT_ENTRY_DATE" />
+      <option name="METHOD_NAME" value="selectEntryDate" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -372,15 +266,72 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="All in PARKING CALCULATOR AUTOMATED TESTS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration default="false" name="SELECT_LEAVING_DATE.selectLeavingDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="MAIN_VERIFICATION_TESTS_SET.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="PARKING CALCULATOR AUTOMATED TESTS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="MAIN_VERIFICATION_TESTS_SET" />
+      <option name="MAIN_CLASS_NAME" value="MAIN_VERIFICATION_TESTS_SET.SELECT_LEAVING_DATE" />
+      <option name="METHOD_NAME" value="selectLeavingDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SELECT_LEAVING_TIME.selectLeavingTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="MAIN_VERIFICATION_TESTS_SET.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="PARKING CALCULATOR AUTOMATED TESTS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="MAIN_VERIFICATION_TESTS_SET" />
+      <option name="MAIN_CLASS_NAME" value="MAIN_VERIFICATION_TESTS_SET.SELECT_LEAVING_TIME" />
+      <option name="METHOD_NAME" value="selectLeavingTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SAMPLE_CALCULATION_TEST.SAMPLE_CALCULATION" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="MAIN_VERIFICATION_TESTS_SET.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="PARKING CALCULATOR AUTOMATED TESTS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="MAIN_VERIFICATION_TESTS_SET" />
+      <option name="MAIN_CLASS_NAME" value="MAIN_VERIFICATION_TESTS_SET.SAMPLE_CALCULATION_TEST" />
+      <option name="METHOD_NAME" value="SAMPLE_CALCULATION" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -541,19 +492,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.LTS_COMPLETE_TESTS_SET" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.STP_COMPLETE_TESTS_SET" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.STP_COMPLETE_TESTS_SET.TEST_FUNC_016" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.VP_COMPLETE_TESTS_SET" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.All in PARKING CALCULATOR AUTOMATED TESTS" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SELECT_ENTRY_TIME.selectEntryTime" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SELECT_ENTRY_DATE.selectEntryDate" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SELECT_LEAVING_DATE.selectLeavingDate" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SELECT_LEAVING_TIME.selectLeavingTime" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SAMPLE_CALCULATION_TEST.SAMPLE_CALCULATION" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.All in PARKING CALCULATOR AUTOMATED TESTS" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.VP_COMPLETE_TESTS_SET" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.STP_COMPLETE_TESTS_SET.TEST_FUNC_016" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.STP_COMPLETE_TESTS_SET" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.LTS_COMPLETE_TESTS_SET" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SAMPLE_CALCULATION_TEST.SAMPLE_CALCULATION" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SELECT_LEAVING_TIME.selectLeavingTime" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SELECT_LEAVING_DATE.selectLeavingDate" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SELECT_ENTRY_DATE.selectEntryDate" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SELECT_ENTRY_TIME.selectEntryTime" />
       </list>
     </recent_temporary>
   </component>
@@ -571,32 +522,32 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="58" y="43" width="1845" height="913" extended-state="0" />
-    <editor active="false" />
+    <frame x="58" y="43" width="1845" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3220339" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.63670886" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21674877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31934032" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28785607" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21674877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -627,53 +578,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ECONOMY_PARKING_LOT/EP_COMPLETE_TESTS_SET.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/CALCULATIONS_TEST_SETS/ECONOMY_PARKING_LOT/EP_COMPLETE_TESTS_SET.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="162" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LONG_TERM_GARAGE_PARKING_LOT/LTG_COMPLETE_TESTS_SET.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/CALCULATIONS_TEST_SETS/LONG_TERM_GARAGE_PARKING_LOT/LTG_COMPLETE_TESTS_SET.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33245382">
           <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LONG_TERM_SURFACE_PARKING_LOT/LTS_COMPLETE_TESTS_SET.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/CALCULATIONS_TEST_SETS/LONG_TERM_SURFACE_PARKING_LOT/LTS_COMPLETE_TESTS_SET.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47229552">
           <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VALET_PARKING_LOT/VP_COMPLETE_TESTS_SET.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/CALCULATIONS_TEST_SETS/VALET_PARKING_LOT/VP_COMPLETE_TESTS_SET.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.73614776">
           <caret line="141" column="51" selection-start-line="141" selection-start-column="51" selection-end-line="141" selection-end-column="51" />
           <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CALCULATIONS_TEST_SETS/SHORT_TERM_PARKING_LOT/STP_COMPLETE_TESTS_SET.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.253298">
+          <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/VERIFY_MAIN_PAGE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5090498">
+          <caret line="31" column="83" selection-start-line="27" selection-start-column="7" selection-end-line="31" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/ARRAY_LOT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.1877828">
+          <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SHORT_TERM_PARKING_LOT/STP_COMPLETE_TESTS_SET.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SELECT_ENTRY_DATE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.253298">
-          <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="68" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SELECT_ENTRY_TIME.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67873305">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="40" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SELECT_LEAVING_DATE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7918552">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="42" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SELECT_LEAVING_TIME.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="38" selection-start-line="22" selection-start-column="8" selection-end-line="39" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MAIN_VERIFICATION_TESTS_SET/SAMPLE_CALCULATION_TEST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32126698">
+          <caret line="112" column="23" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

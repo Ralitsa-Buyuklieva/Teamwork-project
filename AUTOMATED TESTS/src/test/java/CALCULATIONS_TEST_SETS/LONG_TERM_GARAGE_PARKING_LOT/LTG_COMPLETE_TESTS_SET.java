@@ -1,4 +1,4 @@
-package SHORT_TERM_PARKING_LOT;
+package CALCULATIONS_TEST_SETS.LONG_TERM_GARAGE_PARKING_LOT;
 
 import org.junit.*;
 import org.openqa.selenium.*;
@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Created by LewdBenign on 21.08.2015.
  */
-public class STP_COMPLETE_TESTS_SET {
+public class LTG_COMPLETE_TESTS_SET {
     private WebDriver driver;
     private String baseUrl, Lot, action;
     private String entryDate, entryTime;
@@ -22,6 +22,8 @@ public class STP_COMPLETE_TESTS_SET {
             Thread.currentThread().interrupt();
         }
     }
+
+
 
     @Before
     public void setUp(){
@@ -42,7 +44,7 @@ public class STP_COMPLETE_TESTS_SET {
                      String lMi,
                      String lAP){
         baseUrl = "http://www.grr.org/parking-calculator.php?";
-        Lot = "Lot=STP"; //SHORT-TERM PARKING LOT
+        Lot = "Lot=LTG"; //LING-TERM GARAGE PARKING LOT
         action = "&action=calculate&Submit=Calculate#calculator";
         entryDate = ("&EntryDate=" +eM +"%2F" +eD +"%2F" +eY);
         entryTime = ("&EntryTime=" +eH +"%3A" +eMi +"+" +eAP);
@@ -55,12 +57,12 @@ public class STP_COMPLETE_TESTS_SET {
 
 
     @Test
-    public void TEST_FUNC_002(){
+    public void TEST_FUNC_045(){
         //ENTRY DATE AND TIME
         String eDay = "16";
         String eMonth = "04";
         String eYear = "2019";
-        String eHour = "10";
+        String eHour = "01";
         String eMinutes = "00";
         String eAmPm = "AM";
 
@@ -68,12 +70,12 @@ public class STP_COMPLETE_TESTS_SET {
         String lDay = "16";
         String lMonth = "04";
         String lYear = "2019";
-        String lHour = "10";
-        String lMinutes = "30";
+        String lHour = "06";
+        String lMinutes = "59";
         String lAmPm = "AM";
 
         //EXPECTED RESULT
-        String expectedResult = "$2.00 (0D/0H/30M)";
+        String expectedResult = "$12.00 (0D/5H/59M)";
 
         //CALCULATE
         this.calc(eDay, eMonth, eYear, eHour, eMinutes, eAmPm,
@@ -88,25 +90,25 @@ public class STP_COMPLETE_TESTS_SET {
     }
 
     @Test
-    public void TEST_FUNC_008(){
+    public void TEST_FUNC_051(){
         //ENTRY DATE AND TIME
         String eDay = "16";
         String eMonth = "04";
         String eYear = "2019";
-        String eHour = "10";
+        String eHour = "01";
         String eMinutes = "00";
         String eAmPm = "AM";
 
         //LEAVING DATE AND TIME
-        String lDay = "16";
+        String lDay = "21";
         String lMonth = "04";
         String lYear = "2019";
-        String lHour = "05";
-        String lMinutes = "31";
-        String lAmPm = "PM";
+        String lHour = "01";
+        String lMinutes = "01";
+        String lAmPm = "AM";
 
         //EXPECTED RESULT
-        String expectedResult = "$15.00 (0D/7H/31M)";
+        String expectedResult = "$78.00 (5D/0H/1M)";
 
         //CALCULATE
         this.calc(eDay, eMonth, eYear, eHour, eMinutes, eAmPm,
@@ -121,25 +123,25 @@ public class STP_COMPLETE_TESTS_SET {
     }
 
     @Test
-    public void TEST_FUNC_016(){
+    public void TEST_FUNC_055(){
         //ENTRY DATE AND TIME
         String eDay = "16";
         String eMonth = "04";
         String eYear = "2019";
-        String eHour = "10";
+        String eHour = "01";
         String eMinutes = "00";
         String eAmPm = "AM";
 
         //LEAVING DATE AND TIME
-        String lDay = "18";
+        String lDay = "27";
         String lMonth = "04";
         String lYear = "2019";
-        String lHour = "12";
+        String lHour = "01";
         String lMinutes = "00";
         String lAmPm = "AM";
 
         //EXPECTED RESULT
-        String expectedResult = "$48.00 (2D/2H/0M)";
+        String expectedResult = "$130.00 (11D/0H/0M)";
 
         //CALCULATE
         this.calc(eDay, eMonth, eYear, eHour, eMinutes, eAmPm,
@@ -152,7 +154,6 @@ public class STP_COMPLETE_TESTS_SET {
         //WAIT FOR FEW SECONDS
         this.sleep(3);
     }
-
     @After
     public void tearDown(){
         //CLOSE BROWSER
